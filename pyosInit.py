@@ -35,7 +35,7 @@ class Init: #初始化
             Fore.MAGENTA
             + "\nContributors: MeltIce, Yukari2024, EricDing618\nVisit this project in github: github.com/Meltide/mpga-pyos\nLifeinvader Studio Telegram Group: @MeetLifeinvader",
             Fore.CYAN
-            + "\nAlso try PyOS's improved version by minqwq and bibimingming!\n",
+            + "\nAlso try PyOS's improved version by Flandre Studio!\nProject link:https://github.com/minqwq/pyos-improved\n",
         ]
         for i in self.printlist:
             print(i)
